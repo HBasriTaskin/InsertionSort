@@ -33,7 +33,6 @@ void InsertionSort(int arr[], int n)
 
 int main()
 {
-	//Get numbers from users
 	const int n = 5;
 	int arr[n];
 	for (int i = 0; i < n; i++)
